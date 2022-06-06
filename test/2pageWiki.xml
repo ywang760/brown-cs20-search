@@ -1,0 +1,15 @@
+<xml>
+    <page>
+        <title>A    </title>
+        <id>0</id>
+        <text> </text>
+    </page>
+    <page>
+        <title>B</title>
+        <id>1</id>
+        <text>this is another sentence sentence IS HELLO
+        [[dog|enhance]]
+        [[eat]]
+        </text>
+    </page>
+</xml>

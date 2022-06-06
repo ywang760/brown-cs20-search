@@ -1,0 +1,22 @@
+<xml>
+    <page>
+        <title>Computer </title>
+        <id>6</id>
+        <text>[[Computer]] [[Science]] [[Is Cool]] work </text>
+    </page>
+    <page>
+        <title>Science</title>
+        <id>1</id>
+        <text>More words and words and words
+        [[Computer|work]]
+        [[Is Cool|work]]
+        [[science     ]]
+        </text>
+    </page>
+    <page>
+        <title>Is Cool</title>
+        <id>4</id>
+        <text>[[is coool]] [[more work]]  [[computer work]] [[is cooooool]
+        </text>
+    </page>
+</xml>

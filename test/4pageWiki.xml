@@ -1,0 +1,23 @@
+<xml>
+    <page>
+        <title>Mouse</title>
+        <id>4092</id>
+        <text>Look at [[Cute mouse]], the mouse is so cute! </text>
+    </page>
+    <page>
+        <title>Cute mouse</title>
+        <id>49</id>
+        <text>[[Category: Mouse]] Absolutely!
+        </text>
+    </page>
+    <page>
+        <title>Very cute mouse</title>
+        <id>9810</id>
+        <text>The mouse is very very very cute. [[Mouse|Cute mouse]]</text>
+    </page>
+    <page>
+        <title>Stupid cat</title>
+        <id>8878</id>
+        <text>Yes, and cats are stupid. </text>
+    </page>
+</xml>

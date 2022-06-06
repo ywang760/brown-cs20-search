@@ -1,0 +1,45 @@
+<xml>
+ <page>
+   <title>
+     A
+   </title>
+   <id>
+     0
+   </id>
+   <text>
+    [[C|Link C]]
+ 
+    More random text.
+ 
+    [[C|Link C]]
+   </text>
+ </page>
+ 
+ <page>
+   <title>
+   B
+   </title>
+   <id>
+     1
+   </id>
+   <text>
+     More random text. Is coding really a worthwhile career?
+ 
+     [[C|Link C]]
+ 
+     [[Category: Link C]]
+   </text>
+ </page>
+ 
+ <page>
+   <title>
+   C
+ </title>
+ <id>
+   2
+ </id>
+ <text>
+     [[A]]
+ </text>
+ </page>
+</xml>
